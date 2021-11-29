@@ -5,9 +5,9 @@
     "env": {
         "ID": {
             "description": "VLESS ID",
-            "value": "1309c705-61ff-47d3-bab9-67a377e403db"
+            "value": ""
         }
     },
-    "repository": "https://github.com/louyour/dan-vless",
+    "repository": "https://github.com/kip9e/vl",
     "stack": "container"
 }
